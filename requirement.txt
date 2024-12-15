@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+chatbot
+torch
+torchaudio
+torchvision
